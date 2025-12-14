@@ -53,6 +53,6 @@
 
 ---
 
-## 🔗 Internship Details
+## 🔗 Author
 - **Arigaran s**
 - **Prodigy Infotech – Data Science Internship**  
